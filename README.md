@@ -1,7 +1,8 @@
 ### Hi I'm Chemi 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMMMIIIN&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img 
+<a href="https://flutter-ko.dev/">
+    <img 
         src="http://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
@@ -25,7 +26,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMMIIIN&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table>
 
-<a href="www.instagram.com/mmmiiingwan_choi/">
+<a href="https://www.instagram.com/mmmiiingwan_choi/">
     <img 
         src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
