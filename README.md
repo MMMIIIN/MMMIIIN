@@ -1,4 +1,5 @@
 ### Hi I'm Chemi 👋
+#### I'm Flutter, iOS Developer
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMMMIIIN&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://flutter-ko.dev/">
@@ -31,9 +32,15 @@
         src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
 <a href="https://mail.google.com/">
     <img 
         src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://www.linkedin.com/in/mingwan-choi-2a06b5228/">
+    <img 
+        src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
