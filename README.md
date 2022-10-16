@@ -1,10 +1,11 @@
 ### Hi I'm Chemi 👋
-#### I'm Flutter, iOS Developer
+#### I'm iOS, Flutter Developer
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMMMIIIN&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://flutter-ko.dev/">
+
+<a href="https://www.swift.org/">
     <img 
-        src="http://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white"
+        src="http://img.shields.io/badge/-iOS-000000?style=flat&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://www.swift.org/">
@@ -12,11 +13,18 @@
         src="http://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://developer.apple.com/kr/xcode/">
+</br>
+<a href="https://flutter-ko.dev/">
     <img 
-        src="http://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"
+        src="http://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://dart.dev/">
+    <img 
+        src="http://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 
 <table><tr><td valign="top" width="50%">
   
