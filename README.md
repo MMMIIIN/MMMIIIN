@@ -33,10 +33,7 @@
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MMMIIIN)](https://github.com/anuraghazra/github-readme-stats)
   
-</td><td valign="top" width="50%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMMIIIN&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>
+</table>
 
 <a href="https://www.instagram.com/mmmiiingwan_choi/">
     <img 
