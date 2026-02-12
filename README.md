@@ -1,77 +1,33 @@
-### Hi I'm Chemi 👋
-#### I'm iOS, Flutter Developer 
-###### Flutter -> iOS (2022.03 ~ )
+ ## Mingwan Choi
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMMMIIIN&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-<a href="https://www.swift.org/">
-    <img 
-        src="http://img.shields.io/badge/-iOS-000000?style=flat&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://www.swift.org/">
-    <img 
-        src="http://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-</br>
-<a href="https://flutter-ko.dev/">
-    <img 
-        src="http://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://dart.dev/">
-    <img 
-        src="http://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
-
-<table><tr><td valign="top" width="50%">
+  Flutter · iOS 개발자에서 Product Engineer로 성장하기 위해 노력하고 있습니다.
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MMMIIIN)](https://github.com/anuraghazra/github-readme-stats)
-  
-</table>
+  AI 기술에 관심이 많으며, 팀의 생산성 향상에 노력하고 있습니다.
 
-<a href="https://www.instagram.com/mmmiiingwan_choi/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+  ---
 
-<a href="https://mail.google.com/">
-    <img 
-        src="http://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://www.linkedin.com/in/mingwan-choi-2a06b5228/">
-    <img 
-        src="http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+  ### Experience
 
+  **[주식회사 프리그로우](https://grow-space.io/)** · Flutter Engineer / 선임연구원 (2024.01 ~ 재직중)
 
+  ---
 
-![](https://img.shields.io/github/followers/MMMIIIN?style=social)
+  ### Education
 
+  **Apple Developer Academy @ POSTECH** 1기 수료 (2022)
 
+  ---
 
+  ### Open Source
 
+  | 프로젝트 | 설명 |
+  |----------|------|
+  | [PR Logger](https://github.com/MMMIIIN/claude-pr-logger) | 코드 리뷰 → 컨텍스트 리뷰 전환을 위한 Claude Code 플러그인 |
+  | [Daily Work Tracker](https://github.com/MMMIIIN/daily-work-tracker) | 프로젝트별 작업 내역 자동 추적 및 Notion 동기화 Claude Code 플러그인 |
 
+  ---
 
-<!--
-**MMMIIIN/MMMIIIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### Contact
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mingwan-choi-2a06b5228/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/mmmiiingwan_choi/)
